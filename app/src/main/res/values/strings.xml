@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AdMute</string>
+    <string name="service_description">Reads the YouTube screen only to detect ads, then mutes the volume until the ad ends. Nothing is collected or sent anywhere.</string>
+</resources>
